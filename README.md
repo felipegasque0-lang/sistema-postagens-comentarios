@@ -28,3 +28,6 @@ O sistema deseja permitir que os usuários realizem postagens e possam fazer com
  - data e hora do comentário
  - adicionar texto
  - adicionar figurinhas
+
+ ## Modelagem Conceitual
+ ![](sistema%20de%20ponstagens%20e%20comentarios.png)
