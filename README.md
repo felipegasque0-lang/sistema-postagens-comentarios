@@ -19,10 +19,12 @@ O sistema deseja permitir que os usuários realizem postagens e possam fazer com
 
  - Nome do usuário
  - data e hora da publicação
- - adicionar texto(pode incluir figurinhas)
+ - adicionar texto
+ - adicionar figurinhas
 
 **RF03**: O sistema deve permitir que o usuário possa fazer comentários nas ponstagen, contendo os seguintes campos:
 
  - Nome do usuário
  - data e hora do comentário
- - adicionar texto(pode incluir figurinhas)
+ - adicionar texto
+ - adicionar figurinhas
