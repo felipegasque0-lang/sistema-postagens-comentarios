@@ -25,4 +25,4 @@ O sistema deseja permitir que os usuários realizem postagens e possam fazer com
 
  - Nome do usuário
  - data e hora do comentário
- - adicionar textox(pode incluir figurinhas)
+ - adicionar texto(pode incluir figurinhas)
